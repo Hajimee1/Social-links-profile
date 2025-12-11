@@ -66,9 +66,9 @@ body {
   font-size: 24px;
 }
 .link:hover {
-  cursor: pointer;
   background-color: hsl(75, 94%, 57%);
-  color: hsl(0, 0%, 8%);
+  color: black;
+  cursor: url("https://img.icons8.com/ios-glyphs/20/1A1A1A/hand-cursor.png"), pointer;
 }
 
 @media screen and (min-width: 1280px) {

@@ -7,7 +7,7 @@ The purpose of this project is to practice clean UI layout, typography, spacing,
 
 ## 🔗 Live Demo
 
-👉 **[Live Site URL](https://hajimee1.github.io/Blog-preview-card/)**
+👉 **[Live Site URL](https://hajimee1.github.io/Social-links-profile/)**
 
 ---
 
